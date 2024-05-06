@@ -1,1 +1,7 @@
-"# belajar-dasarpemrogramanpython" 
+# Belajar dasar pemrograman python
+
+__Langkah awal sebelum mulai koding ucapkan basmalah dan siapkan secangkir kopi di samping laptopmu. Matur suwon__
+
+> [!IMPORTANT]
+> Salah satu website yang berguna untuk mencari informasi nama dan code point karakter Unicode: [https://www.compart.com/en/unicode/]
+

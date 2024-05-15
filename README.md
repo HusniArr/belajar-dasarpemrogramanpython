@@ -1,6 +1,6 @@
 # Belajar dasar pemrograman python
 
-__Langkah awal sebelum mulai koding ucapkan basmalah dan siapkan secangkir kopi di samping laptopmu. Matur suwon__
+__Langkah awal sebelum mulai koding ucapkan basmalah dan siapkan secangkir kopi di samping laptopmu. Matur suwon👨‍💻__
 
 ## Sumber link atau situs referensi belajar
 > [!NOTE]
